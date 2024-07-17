@@ -18,7 +18,7 @@ This repository contains a Streamlit application that interacts with the Gemini 
 ### Video Demo
 Watch the video demo of the application in action:
 
-![Video Demo](QA chatbot demo.webm)
+![Video Demo]([QA chatbot demo.webm](https://github.com/satyaprakash009/chatbot-using-Gemini-Api/blob/main/QA%20chatbot%20demo.webm))
 
 ### Image Demo
 Here are some screenshots of the application:
