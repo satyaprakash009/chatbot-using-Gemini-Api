@@ -23,7 +23,7 @@ Watch the video demo of the application in action:
 ### Image Demo
 Here are some screenshots of the application:
 
-![Demo Image](QA_chatbot.png)  <!-- Add a screenshot of your application -->
+![Demo Image]([QA_chatbot.png](https://github.com/satyaprakash009/chatbot-using-Gemini-Api/blob/main/QA%20chatbot.PNG))  <!-- Add a screenshot of your application -->
 
 ## Features
 
