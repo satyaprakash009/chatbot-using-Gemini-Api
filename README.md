@@ -1,5 +1,5 @@
 # Q&A chatbot-using-Gemini-Api
-a chatbot using the Gemini API that can remember previous inputs and outputs,  implement a persistent chat session that maintains context across user interactions.
+A chatbot using the Gemini API that can remember previous inputs and outputs,  implement a persistent chat session that maintains context across user interactions.
 
 This repository contains a Streamlit application that interacts with the Gemini Pro model from Google Generative AI. The application allows users to ask questions and receive responses from the AI model, maintaining a chat history for the session.
 
